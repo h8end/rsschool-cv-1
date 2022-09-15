@@ -12,12 +12,12 @@
 
 I am currently studying at BNTU, but I don't like my profession, so I try to do my best in learning HTML, CSS and JS and become a Frontend developer in the near future. I want to change my life.
 
-## My skills
+## My skills:
 
 * HTML, CSS, JS (basic)
 * Figma, Git, GitHub, Sass/Scss
 
-## Code Examples 
+## Code Examples: 
 
 ```
 let answer = comfirm("...");
@@ -27,3 +27,14 @@ if (answer) {
     console.log('.')
 }
 ```
+
+## Education:
+
+* Udemy. Web-developer 2022. (in process)
+* Udemy. JavaScript + React. (in process)
+* Belarusian National Technical University
+
+## Languages
+
+Russian - native speaker.
+English - so-so)
