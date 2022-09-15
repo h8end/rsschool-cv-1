@@ -36,5 +36,5 @@ if (answer) {
 
 ## Languages
 
-Russian - native speaker.
+Russian - native speaker.\
 English - so-so)
